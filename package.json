@@ -48,5 +48,8 @@
   },
   "devDependencies": {
     "netlify-cli": "^12.1.0"
+  },
+  "overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
   }
 }
